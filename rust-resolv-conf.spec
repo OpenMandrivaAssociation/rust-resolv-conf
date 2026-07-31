@@ -5,8 +5,8 @@
 %global crate resolv-conf
 
 Name:           rust-%{crate}
-Version:        0.6.2
-Release:        4%{?dist}
+Version:        0.7.6
+Release:        1%{?dist}
 Summary:        Resolv.conf file parser
 
 # Upstream license specification: MIT/Apache-2.0
